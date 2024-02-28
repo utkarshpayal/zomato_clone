@@ -1,0 +1,20 @@
+.meeting-title {
+    font-size: 24px;
+    margin-bottom: 20px; /* Adjust spacing as needed */
+  }
+  
+  .join-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #ff0000; /* Zomato red color, you can adjust */
+    color: #ffffff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .join-button:hover {
+    background-color: #cc0000; /* Darker shade on hover, you can adjust */
+  }
+  
