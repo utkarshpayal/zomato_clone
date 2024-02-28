@@ -5,7 +5,7 @@ const VideosComponent = () => {
   // Array of fixed video links
   const videoLinks = [
     {
-      title: "Easy Pasta Recipe",
+      title: "Easy Pizza Recipe",
       link: "https://www.youtube.com/embed/BjjP0HQsblg"
     },
     {
